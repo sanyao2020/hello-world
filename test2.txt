@@ -1,2 +1,2 @@
 test2.txt:wq
-change by zyy
+:change by zyy
